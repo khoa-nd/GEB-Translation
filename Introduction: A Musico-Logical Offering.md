@@ -29,3 +29,18 @@ FIGURE 3. The Royal Theme
 (3) Obbligato : 
 
 (4) Canon : Trong lĩnh vực âm nhạc, canon là một bản nhạc đối âm sử dụng giai điệu có kết hợp một hoặc nhiều giai điệu phỏng mẫu kèm theo trong một khoảng thời gian nhất định (ví dụ, trong khoảng nghỉ, điệu nhảy) 
+
+<hr/>
+
+<p>Khi Bach gửi một bản sao chép tác phẩm [Tặng Phẩm Âm Nhạc] (Musical Offering) tới nhà vua, ông ấy đính kèm theo một bức thư đề tặng, khá là thú vị cho phong cách văn xuôi của nó - chứ không phục tùng và tâng bốc. Từ góc nhìn hiện đại, chúng dường như khá tức cười. Hơn nữa, nó chắc có lẽ cũng thay cho lời xin lỗi của Bach về sự xuất hiện không được chỉnh chu trước đó.</p>
+
+> KÍNH THƯA ĐỨC VUA NHÂN TỪ!
+Với sự khiêm tốn cao nhất, thần xin dâng lên Bệ Hạ một tặng phẩm âm nhạc, phần tráng lệ nhất của nó kế thừa từ chính bàn tay mạnh mẽ của Ngài. Thần rất hài lòng khi nhớ lại sự ân sủng rất đặc biệt từ hoàng gia trước đây, trong cuộc viếng thăm của thần đến Postdam, Bệ Hạ đã chiếu cố trình diễn cho thần nghe một bản nhạc trên đàn clavier, và cùng thời điểm đó điều này đã tiếp sức cho thần để thần trình diễn lại cho Bệ Hạ. Tuân theo mệnh lệnh của Bệ Hạ là một sự khiêm nhường nhất của thần. Tuy nhiên, thần đã sớm nhận ra, vì thiếu sự chuẩn bị cần thiết nên đã thi hành nhiệm vụ không thành công cho tương xứng với sự đòi hỏi của một chủ đề xuất sắc như vậy. Do đó thần quyết tâm và nhanh chóng tự cam kết sáng tạo ra đoạn nhạc mang chủ đề Hoàng Gia (Figure 3 - Royal Theme) này một cách đầy đủ hơn, và sau đó cho cả Thế Giới biết đến nó. Sự quyết tâm này hiện đã được trình diễn ngay khi có thể, và nó không có gì khác ngoài ý định không thể chê trách được, là để tôn vinh, nói ngắn gọn, là sự nổi tiếng của một vị quân vương vĩ đại và quyền lực, giống như trong tất cả các môn khoa học về chiến tranh và hòa bình, đặc biệt là trong âm nhạc, mọi người đều phải ngưỡng mộ và tôn kính. Thần xin táo bạo thêm một yêu cầu khiêm nhường này: mong Bệ Hạ chiếu cố chấp nhận món quà này như một thành quả lao động khiêm tốn nhất của thần.
+> Kính Bệ Hạ,
+> Thần dân khiêm tốn nhất của ngài,
+TÁC GIẢ
+Leipzig, July 7 1747
+
+<p>Hai mươi bảy năm sau, khi Bach đã qua đời được hai mươi năm, một Nam tước tên là Gottfried van Swieten - người mà, một cách tình cờ, Forkel đã dâng tiểu sử về Bach đến, và Beethoven dành tặng Bản giao hưởng đầu tiên của mình - đã nói chuyện với Vua Frederick, mà ông ta đã nói lại như sau:</p>
+
+> Nhà vua [Frederick] đã nói chuyện với tôi, ngoài một số những việc khác ra, là về âm nhạc, đặc biệt là âm nhạc của một nhà organ vĩ đại tên là Bach, người đã từng ở Berlin một thời gian. Người nghệ sĩ này [Wilhelm Friedemann Bach] được trời phú cho một tài năng vượt trội, sự sâu sắc của kiến thức hài hòa và sức mạnh của sự thực thi, với bất kỳ ai từng nghe nói đến hoặc có thể tưởng tượng được, trong khi đó những người biết cha của ông ấy còn cho rằng, Bach cha thậm chí còn tuyệt vời hơn. Đó là ý kiến của nhà vua, và để chứng minh cho tôi thấy, nhà vua đã hát to một bản chủ đề đối âm đầy màu sắc mà ông ta đã đưa cho ông già Bach này, người mà ngay tại chỗ đã biến tấu nó thành một bản đối âm bốn phần, sau đó là năm phần, và cuối cùng là tám phần.
