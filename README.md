@@ -1,5 +1,2 @@
-# GEB-Translation
-Personal translation for GEB Book
+# Cover Page
 
-## Table of contents
-[Introduction: A Musico-Logical Offering](/Introduction: A Musico-Logical Offering.md)
